@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and follwed this guide to [Create a Hacker News clone](https://www.freecodecamp.org/news/how-to-build-a-hacker-news-clone-using-react/)
 
 ## Available Scripts
 
